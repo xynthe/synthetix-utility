@@ -1,2 +1,2 @@
-# synthetix-utility
-Utility smart contracts to be used with the Synthetix dApps
+# xynthe-utility
+Utility smart contracts to be used with the Xynthe dApps
